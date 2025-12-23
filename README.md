@@ -24,6 +24,6 @@ Enabled faster decision-making for management
 
 Note: This project was built during my role at a financial services organization. Data shown here is sample data, presented for demonstration purposes only.
 
-![Automated Excel Report](Excel20%Automation.png)
-![Automated Excel Report](Excel20%Automation2.png)
+![Automated Excel Report](Excel2%20Automation.png)
+![Automated Excel Report](Excel2%20Automation2.png)
 
